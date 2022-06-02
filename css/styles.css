@@ -233,6 +233,10 @@ aside p {
   order: 1;
 }
 
+.ad .portable {
+  display: none;
+}
+
 /* footer */
 
 footer {
@@ -457,6 +461,12 @@ iframe {
   .post-title,
   .post-cat {
     margin-left: 80px;
+  }
+
+  /* ad */
+
+  .ad .screen {
+    display: none;
   }
 
   /* Menu */
